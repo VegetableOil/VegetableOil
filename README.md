@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VegetableOil
+- 👋 Hi, I’m @davidbalian
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me = {
